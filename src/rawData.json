@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "id": 5,
+      "brand": "Škoda",
+      "model": "Scala",
+      "reg": "2AP0809",
+      "km": 159212,
+      "year": 2017
+    },
+    {
+      "id": 9,
+      "brand": "Honda",
+      "model": "Civic",
+      "reg": "9T64589",
+      "km": 101515,
+      "year": 2005
+    },
+    {
+      "id": 12,
+      "brand": "Škoda",
+      "model": "Fabia",
+      "reg": "6MA8915",
+      "km": 230555,
+      "year": 2012
+    },
+    {
+      "id": 20,
+      "brand": "Seat",
+      "model": "Ibiza",
+      "reg": "8TR9634",
+      "km": 159453,
+      "year": 2008
+    },
+    {
+      "id": 21,
+      "brand": "Škoda",
+      "model": "Felicia",
+      "reg": "1T15825",
+      "km": 256996,
+      "year": 1999
+    },
+    {
+      "id": 25,
+      "brand": "Škoda",
+      "model": "Felicia",
+      "reg": "1L26828",
+      "km": 228249,
+      "year": 2000
+    },
+    {
+      "id": 26,
+      "brand": "Seat",
+      "model": "Leon",
+      "reg": "1AN5586",
+      "km": 152023,
+      "year": 2016
+    }
+  ]
+}
