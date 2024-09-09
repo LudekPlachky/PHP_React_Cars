@@ -1,10 +1,10 @@
 <?php
 class DbConnect
 {
-private $server = 'localhost';
-private $dbname = 'cars';
-private $user = 'root';
-private $pass = '';
+private $server = 'md413.wedos.net';
+private $dbname = 'd351838_cars';
+private $user = 'a351838_cars';
+private $pass = '3AkpC2H6';
 private $options = array(
 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
 PDO::ATTR_EMULATE_PREPARES => false,
